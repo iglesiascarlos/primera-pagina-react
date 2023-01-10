@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #16151b;
+    font-size: 20px;
+    letter-spacing: 5px;
+    position: relative;
+    display: inline-block;
+}
+
+nav a:hover{
+    color: #6a6a6a;
+}

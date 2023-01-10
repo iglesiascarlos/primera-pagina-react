@@ -1,0 +1,33 @@
+figure{
+    background-color: #FDFDFD;
+    box-shadow: 5px 5px 40px grey;
+}
+
+figcaption{
+    font-size: 18px;
+    letter-spacing: 1.5px;
+    padding: 0 68px 0 68px;
+    text-align: center;
+    line-height: 50px;
+    margin-bottom: 70px;
+}
+
+.hrpicture{
+    border: 1.5px solid;
+    background-color: #454744;
+    width: 40px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.imagen{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    max-width: 600px;
+}
+
+img{
+    width: 400px;
+    margin: 20px 20px 0px 20px;
+}
